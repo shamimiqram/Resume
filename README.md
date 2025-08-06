@@ -16,10 +16,10 @@ Software Engineer with over 6 years of experience in developing scalable softwar
 ---
 
 ### SKILLS  
-- **Programming Languages:** C++, C, C#, Java, Python  
-- **Frameworks & Technologies:** .NET, HTML, CSS, UWP, WPF, XAML, REST API  
-- **Systems & Tools:** Git, Windows Driver Development, Linux System, NLP  
-- **ML/AI Techniques:** K-Means, Naive Bayes, Decision Tree  
+- **Programming Languages:** C, C++, C#, Python, Java
+- **Frameworks & Technologies:** .NET, UWP, WPF, Flask, FastAPI, REST API, HTML, CSS, XAML
+- **Systems & Tools:** Git, Windows Driver Development, Linux System, Embedded System
+- **ML/AI Techniques:** Gen-AI, NLP, K-Means, Naive Bayes, Decision Tree  
 
 ---
 
